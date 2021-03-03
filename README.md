@@ -1,1 +1,1 @@
-Gene-Ontology
+Gene-Ontology: Genetic algorithm
